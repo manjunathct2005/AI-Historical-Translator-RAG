@@ -1,0 +1,12 @@
+[
+  "tests/test_lang_codes.py::test_english_not_indic",
+  "tests/test_lang_codes.py::test_indictrans_code_lookup",
+  "tests/test_lang_codes.py::test_nllb_code_lookup",
+  "tests/test_lang_codes.py::test_sanskrit_is_indic",
+  "tests/test_lang_codes.py::test_supported_language_labels_sorted_and_nonempty",
+  "tests/test_text_utils.py::test_chunk_text_empty_input",
+  "tests/test_text_utils.py::test_chunk_text_respects_overlap_and_nonempty",
+  "tests/test_text_utils.py::test_clean_whitespace_collapses_blank_lines",
+  "tests/test_text_utils.py::test_truncate_long_text_adds_ellipsis",
+  "tests/test_text_utils.py::test_truncate_short_text_unchanged"
+]
